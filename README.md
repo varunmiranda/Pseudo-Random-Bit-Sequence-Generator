@@ -1,2 +1,2 @@
 # Pseudo-Random-Bit-Sequence-Generator
-A Project to Implement an 8-bit PRBS using Verilog HDL. Collaborated with Adithya Bharadwaj and Gowtham P.
+The PDF attached consists of our results in Verilog HDL and a Hardware Implemention of the same. Collaborated with Adithya Bharadwaj and Gowtham P.
